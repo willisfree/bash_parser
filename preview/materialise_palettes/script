@@ -1,0 +1,1 @@
+i=0; for c in ${colors[@]}; do convert -size 1280x543 xc:"$c" "img_$i.png"; echo $i && let i=$i+1; done

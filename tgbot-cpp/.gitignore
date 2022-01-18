@@ -1,0 +1,14 @@
+CMakeCache.txt
+CMakeFiles
+Makefile
+*.cmake
+install_manifest.txt
+*.cbp
+*.a
+*.so
+doc/
+Thumbs.db
+TgBot_test
+.idea/
+.vscode/
+docs/
